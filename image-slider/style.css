@@ -1,0 +1,41 @@
+img{
+    border: black 2px solid;
+    border-radius: 10px;
+    position: fixed;
+    left: 33%;
+    right: 40%;
+    top:30%;
+    background-color:floralwhite;
+    shape-image-threshold: auto;
+}
+#back{
+    display: block;
+    position: fixed;
+    left: 30%;
+    right: 40%;
+    top:80%;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-weight: 100;
+}
+#next{
+    display: block;
+    position: fixed;
+    right: 25%;
+    top:80%;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-weight: 100;
+}
+body{
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 30px;
+    left: 25px;
+    text-transform: capitalize;
+    font-weight: 100;
+    
+}
